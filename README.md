@@ -1,7 +1,9 @@
 # AdventOfCode2018
-My solution set (Python) for the Advent of Code 2018 challenges. (Spoilers)
-
-## Approach / Takeaways / Things learned (by problem set):
+My solution set (Python) for the Advent of Code 2018 challenges. First time doing the challenge. See below for a list of things learned, approaches, take-aways and miscellaneous notes from each challenge.
+<br>
+<br>
+#### Approach / Takeaways / Things learned (by problem set):
+-----
 
 Day1P1: 
 - This one was pretty straight forward so not much really.
@@ -28,6 +30,6 @@ Day3P2:
 - Learned that set1.intersection(set2) will not necessarily give me the same answer as set2.intersection(set1).
 
 Day4P1:
-- 
+ 
 
 
